@@ -60,9 +60,9 @@ repositories {
 ```
 ## Output
 
-![alt text](https://github.com/TutorialsAndroid/SEmojis/blob/master/art/mockup01.png)
+![alt text](https://github.com/TutorialsAndroid/SEmojis/blob/master/art/mockup001.png)
 
-![alt text](https://github.com/TutorialsAndroid/SEmojis/blob/master/art/mockup02.png)
+![alt text](https://github.com/TutorialsAndroid/SEmojis/blob/master/art/mockup002.png)
 
 ## Acknowledgements
 
