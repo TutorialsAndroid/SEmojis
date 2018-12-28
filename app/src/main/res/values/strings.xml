@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SEmoji</string>
+    <string name="use_system_default">Use System Default?</string>
+    <string name="emoji">emoji</string>
+    <string name="send">send</string>
+    <string name="semojis">SEmojis</string>
+</resources>
