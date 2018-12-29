@@ -1,7 +1,10 @@
 ## SEmojis
 
 [SEmojis] is a library to implement and render emojis.
+
 [![API](https://img.shields.io/badge/API-16%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=16)
+
+[![Android Arsenal]( https://img.shields.io/badge/Android%20Arsenal-SEmojis-green.svg?style=flat )]( https://android-arsenal.com/details/1/7411 )
 
 ## Library available on JitPack
 [![](https://jitpack.io/v/TutorialsAndroid/SEmojis.svg)](https://jitpack.io/#TutorialsAndroid/SEmojis)
