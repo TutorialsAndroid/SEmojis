@@ -4,6 +4,8 @@
 
 [![API](https://img.shields.io/badge/API-15%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=15)
 
+[![Known Vulnerabilities](https://snyk.io/test/github/TutorialsAndroid/SEmojis/badge.svg?targetFile=app%2Fbuild.gradle)](https://snyk.io/test/github/TutorialsAndroid/SEmojis?targetFile=app%2Fbuild.gradle)
+
 [![Android Arsenal]( https://img.shields.io/badge/Android%20Arsenal-SEmojis-green.svg?style=flat )]( https://android-arsenal.com/details/1/7411 )
 
 ## Library available on JitPack
