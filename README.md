@@ -78,7 +78,7 @@ SEmojis is using emojis graphics from [emoji-cheat-sheet.com](https://github.com
 * [Apache Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
 
 ```
-Copyright 2018 SEmojis
+Copyright 2019 SEmojis
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
