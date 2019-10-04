@@ -4,8 +4,9 @@ import android.content.Context;
 import android.graphics.Canvas;
 import android.graphics.Paint;
 import android.graphics.drawable.Drawable;
-import android.support.annotation.NonNull;
 import android.text.style.DynamicDrawableSpan;
+
+import androidx.annotation.NonNull;
 
 import java.lang.ref.WeakReference;
 

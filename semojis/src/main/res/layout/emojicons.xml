@@ -101,7 +101,7 @@
                 android:contentDescription="@string/app_name"/>
     </LinearLayout>
 
-    <android.support.v4.view.ViewPager
+    <androidx.viewpager.widget.ViewPager
         android:layout_below="@id/emojis_tab"
         android:id="@+id/emojis_pager"
         android:background="#ffffff"

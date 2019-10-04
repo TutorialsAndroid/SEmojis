@@ -8,7 +8,7 @@ import android.text.style.DynamicDrawableSpan;
 import android.util.AttributeSet;
 import developer.semojis.R;
 
-public class EmojiconTextView extends android.support.v7.widget.AppCompatTextView {
+public class EmojiconTextView extends androidx.appcompat.widget.AppCompatTextView {
     private int mEmojiconSize;
     private int mEmojiconAlignment;
     private int mEmojiconTextSize;

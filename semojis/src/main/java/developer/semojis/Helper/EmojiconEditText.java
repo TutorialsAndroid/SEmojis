@@ -2,7 +2,7 @@ package developer.semojis.Helper;
 
 import android.content.Context;
 import android.content.res.TypedArray;
-import android.support.v7.widget.AppCompatEditText;
+import androidx.appcompat.widget.AppCompatEditText;
 import android.text.style.DynamicDrawableSpan;
 import android.util.AttributeSet;
 import developer.semojis.R;

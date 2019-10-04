@@ -66,7 +66,7 @@ Via Gradle:
 repositories {
    maven { url 'https://jitpack.io' }
 }
-  implementation 'com.github.TutorialsAndroid:SEmojis:v0.3'
+  implementation 'com.github.TutorialsAndroid:SEmojis:v1.0.19'
 ```
 ## Output
 
