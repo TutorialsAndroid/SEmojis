@@ -12,6 +12,7 @@
 [![](https://jitpack.io/v/TutorialsAndroid/SEmojis.svg)](https://jitpack.io/#TutorialsAndroid/SEmojis)
 
 ## AndroidX Library
+`Library Support androidx`
 
 ## Important
 
