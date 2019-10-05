@@ -11,6 +11,8 @@
 ## Library available on JitPack
 [![](https://jitpack.io/v/TutorialsAndroid/SEmojis.svg)](https://jitpack.io/#TutorialsAndroid/SEmojis)
 
+## AndroidX Library
+
 ## Important
 
 **Note this library was made in the making for `Kinda` app this library was copied from `SuperNova-Emoji-master` repository on github we made this library because we want to use own library on `Kinda` app.So this library is in development we will monthly
