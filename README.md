@@ -23,6 +23,9 @@ update this library with some changes.**
 
 To Listen to keyboard status 
 ```
+private EmojiconEditText emojIcon;
+
+//call this method in onCreate where you have implemented your editText 
 emojIcon.setKeyboardListener(new EmojIconActions.KeyboardListener() {
 @Override
 public void onKeyboardOpen() {
