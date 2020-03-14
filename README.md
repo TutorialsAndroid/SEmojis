@@ -14,6 +14,10 @@
 ## AndroidX Library
 `Library Support androidx`
 
+## Download Our New App
+
+[Cocktail Friendship App](https://play.google.com/store/apps/details?id=developer.cocktail)
+
 ## Important
 
 **Note this library was made in the making for `Kinda` app this library was copied from `SuperNova-Emoji-master` repository on github we made this library because we want to use own library on `Kinda` app.So this library is in development we will monthly
