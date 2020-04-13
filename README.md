@@ -14,13 +14,9 @@
 ## AndroidX Library
 `Library Support androidx`
 
-## Hire-Us
+## Hire-Me
 
-<p align="center">Are you having trouble in your android projects then let us help you with it just Email Us. We love our users, so feel free to visit https://asm.life
-
-## Download Our New App
-
-[Cocktail Friendship App](https://play.google.com/store/apps/details?id=developer.cocktail)
+<p align="center">Are you having trouble in your android projects then let me help you with it just Email me. We love our users, so feel free to visit https://asm.life
 
 ## Important
 
