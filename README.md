@@ -16,7 +16,7 @@
 
 ## Hire-Me
 
-<p align="center">Are you having trouble in your android projects then let me help you with it just Email me. I love my users, so feel free to visit https://asm.life
+<p align="center">Are you having trouble in your android projects then let me help you with it just Email me. I love my users, so feel free to visit http://asm.life
 
 ## Important
 
